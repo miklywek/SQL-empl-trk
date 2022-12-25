@@ -3,7 +3,6 @@
 Architect and build a solution for managing a company's employees using Node, Inquirer, and MySQL.
 
 [![Personal IDBadge](https://img.shields.io/badge/Dev-BwayCarl-red)](https://bwaycarl.github.io/Portfolio/)
-[![GitHub license](https://img.shields.io/github/license/BwayCarl/Node-README-Generator?logo=MIT)](https://github.com/BwayCarl/Note-Taker/blob/master/LICENSE)
 
 ## Homework Assignment - Week 12
 
@@ -11,18 +10,11 @@ Architect and build a solution for managing a company's employees using Node, In
 
 ## _Table of Contents_
 
-- [Employee-Tracker](#employee-tracker)
-  - [Homework Assignment - Week 12](#homework-assignment---week-12)
-      - [Rutgers Coding Bootcamp / RUT-JER-FSF-PT-06-2020-U-C](#rutgers-coding-bootcamp--rut-jer-fsf-pt-06-2020-u-c)
-  - [_Table of Contents_](#table-of-contents)
-  - [_Description_](#description)
-  - [_Installation_](#installation)
-  - [_Usage_](#usage)
-  - [_Contributing_](#contributing)
-  - [_Authors_](#authors)
-  - [_Screenshots_](#screenshots)
-  - [_Tests_](#tests)
-  - [_Contact Me_](#contact-me)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Screenshots](#screenshots)
 
 ## _Description_
 
@@ -64,9 +56,6 @@ Mykola Kysil
 
 ![Screenshot 3]()
 
-## _Tests_
-
-No tests specified.
 
 ## _Contact Me_
 
