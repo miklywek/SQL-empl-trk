@@ -52,7 +52,7 @@ Please contact me to contribute.
 
 ## _Authors_
 
-Carlos Martinez
+Mykola Kysil
 
 ## _Screenshots_
 
@@ -70,7 +70,7 @@ No tests specified.
 
 ## _Contact Me_
 
-- Github: **[BwayCarl](https://github.com/BwayCarl)**
+- Github: **[KysilMykola](https://github.com/BwayCarl)**
 
 - Email: **[miklywek@gmail.com](mailto:miklywek@gmail.com)**
 
