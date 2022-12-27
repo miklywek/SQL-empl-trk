@@ -49,6 +49,11 @@ Here is an MP4 showing the entire process that can be watched through the Awesom
 [Walkthrough video](assets/Studio_Project.mp4)
 
 
+
+https://user-images.githubusercontent.com/64354412/209725804-79adfca8-0ebd-4955-bab6-5f788500536d.mp4
+
+
+
 ## _Contact Me_
 
 - Github: **[KysilMykola](https://github.com/BwayCarl)**
