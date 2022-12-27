@@ -16,7 +16,6 @@ Architect and build a solution for managing a company's employees using Node, In
   - [_Usage_](#usage)
   - [_Contributing_](#contributing)
   - [_Authors_](#authors)
-  - [_Screenshots_](#screenshots)
   - [_Contact Me_](#contact-me)
 
 ## _Description_
@@ -48,15 +47,8 @@ Please contact me to contribute.
 
 Mykola Kysil
 
-## _Screenshots_
-
-![Tracker gif]()
-
-![Screenshot 1]()
-
-![Screenshot 2]()
-
-![Screenshot 3]()
+Here is an MP4 showing the entire process that can be watched through the Awesome Screenshot link below.
+[Walkthrough video](assets/Studio_Project.mp4)
 
 
 ## _Contact Me_
