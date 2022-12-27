@@ -2,8 +2,6 @@
 
 Architect and build a solution for managing a company's employees using Node, Inquirer, and MySQL.
 
-[![Personal IDBadge](https://img.shields.io/badge/Dev-BwayCarl-red)](https://bwaycarl.github.io/Portfolio/)
-
 ## Homework Assignment - Week 12
 
 ## _Table of Contents_
