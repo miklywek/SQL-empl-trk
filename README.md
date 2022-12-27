@@ -6,15 +6,18 @@ Architect and build a solution for managing a company's employees using Node, In
 
 ## Homework Assignment - Week 12
 
-#### Rutgers Coding Bootcamp / RUT-JER-FSF-PT-06-2020-U-C
-
 ## _Table of Contents_
 
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Screenshots](#screenshots)
+- [Employee-Tracker](#employee-tracker)
+  - [Homework Assignment - Week 12](#homework-assignment---week-12)
+  - [_Table of Contents_](#table-of-contents)
+  - [_Description_](#description)
+  - [_Installation_](#installation)
+  - [_Usage_](#usage)
+  - [_Contributing_](#contributing)
+  - [_Authors_](#authors)
+  - [_Screenshots_](#screenshots)
+  - [_Contact Me_](#contact-me)
 
 ## _Description_
 
@@ -32,7 +35,6 @@ Once in the properly cloned folder, run `npm install` to install the following d
 - Console Table: `npm i console.table` for an easy to read table in your terminal.
 
 - Add database Schemas and Seeds files to your MySql Workbench to create initial tables.
-- Provide your MySql Workbench password in the `tracker.js` file (line 9) to establish your connection.
 
 ## _Usage_
 

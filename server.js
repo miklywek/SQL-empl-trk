@@ -5,7 +5,7 @@ const inquirer = require("inquirer");
 // Connect to database
 const db = mysql.createConnection(
   {
-    host: "localhost",
+    host: "127.0.0.1",
     // MySQL username,
     user: "root",
     // MySQL password
@@ -178,24 +178,35 @@ const addEmployee = () => {
         message: "What is the employee's last name?",
         name: "lastName",
       },
+      {
+        type: "input",
+        message: "What is the employee's role id number?",
+        name: "roleID",
+      },
+      {
+        type: "input",
+        message: "What is the manager id number?",
+        name: "managerID",
+      },
     ])
     .then((ans) => {
       db.query(
-        `INSERT INTO employees(first_name, last_name)
-                    VALUES(?, ?)`,
-        [ans.firstName, ans.lastName],
+        `INSERT INTO employees(first_name, last_name, role_id, manager_id)
+                    VALUES(?, ?, ?, ?)`,
+        [ans.firstName, ans.lastName, ans.roleID, ans.managerID],
         (err, results) => {
-          if (err) {
-            console.log(err);
-          } else {
-            db.query(`SELECT * FROM employees`, (err, results) => {
-              err ? console.error(err) : console.table(results);
-              init();
-            });
-          }
+          if (err) throw err;
+          console.table(results);
+
+          //  else {
+          //   db.query(`SELECT * FROM employees`, (err, results) => {
+          //     err ? console.error(err) : console.table(results);
+          init();
+          // });
         }
       );
     });
+  // });
 };
 const updateEmployee = () => {
   inquirer
